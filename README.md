@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-"# Expanding Cards" 
-=======
-# expandingcards
-Expanding Cards is a simple and interactive project where clicking on a card expands it to reveal more details.
->>>>>>> 9160dc209c35b96fea4dddccb9868faa829b7148
+# Expanding Cards
+
+This repository contains a simple project to demonstrate expanding card functionality using HTML, CSS, and JavaScript.
+
+## Features
+
+- Expandable card effects
+- Smooth animations
+- Interactive UI
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/picker770/expandingcards.git`
+2. Open `index.html` in your browser.
